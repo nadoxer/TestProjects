@@ -6,6 +6,7 @@ import android.view.Menu;
 
 public class MainActivity extends Activity
 {
+	// 17/02 17h50
 
 	@Override
 	protected void onCreate( Bundle savedInstanceState )
