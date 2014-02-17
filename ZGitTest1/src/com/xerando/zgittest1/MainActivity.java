@@ -6,6 +6,8 @@ import android.view.Menu;
 
 public class MainActivity extends Activity
 {
+
+	// Histoire de créer un conflict
 	// 17/02 20:02
 	// 17/02 18h47
 	// 17/02 17h50
