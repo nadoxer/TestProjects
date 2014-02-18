@@ -29,7 +29,7 @@ public class MainActivity extends Activity
 	
 	public String caca()
 	{
-		String strCaca = "caca Ruiz";
+		String strCaca = "caca Ruiz 2eme essai";
 		return strCaca;
 	}
 
